@@ -1,45 +1,61 @@
-```markdown
-# README
+README
+Requirements
 
-## Requirements
 Install dependencies:
 
 pip install -r requirements.txt
 
-If no requirements file is available, install manually:
+
+If no requirements file is provided, install manually:
 
 pip install torch torchvision scikit-learn pandas numpy opencv-python tqdm
 
-## Setup
-1. Ensure `config.json` includes:
-   - base_path
-   - dataset paths
-   - normalization mean/std
+Setup
 
-2. Confirm the project contains:
+Make sure config.json contains:
 
-Utils/  
-Features/  
-config.json  
+base_path
+
+dataset paths
+
+normalization mean/std
+
+Ensure the directory structure includes:
+
+Utils/
+Features/
+config.json
 main_script.py
 
-## How to Run
+How to Run
+
 Run the main script:
 
 python main_script.py
 
-This will:
-- load the dataset
-- extract CNN features
-- apply PCA
-- train regression models
-- save outputs in `Features/`
 
-## Outputs
-The script produces:
-- feature files (`Features/train/*.npy`, `Features/val/*.npy`)
-- PCA-reduced features
-- trained models (`.pkl`)
-- printed evaluation metrics
-- total runtime
-```
+This will:
+
+load the dataset
+
+extract CNN features
+
+apply PCA
+
+train regression models
+
+save outputs in Features/
+
+Outputs
+
+The script generates:
+
+extracted feature files (Features/train/*.npy, Features/val/*.npy)
+
+PCA-reduced features
+
+trained models (.pkl)
+
+console evaluation metrics
+
+total runtime printed at the end
