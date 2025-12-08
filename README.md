@@ -42,45 +42,6 @@ Our experiments show that:
 
 ---
 
-## 📁 Project Structure
-
-```
-MDFF-Solar-Estimation/
-│── config.json
-│── main_script.py
-│── README.md
-│── Utils/
-│   ├── device.py
-│   ├── dataset.py
-│   ├── process_features.py
-│   └── evaluate.py
-│── Features/
-│   ├── train/
-│   ├── val/
-│   ├── scaler/
-│   ├── ipca/
-│   ├── p_train/
-│   └── p_val/
-└── models/
-```
-
----
-
-## 🛠 Requirements
-
-Install dependencies:
-
-```
-pip install -r requirements.txt
-```
-
-If a requirements file is not included:
-
-```
-pip install torch torchvision scikit-learn pandas numpy opencv-python tqdm
-```
-
----
 
 ## ⚙️ Setup
 
@@ -144,15 +105,6 @@ If you use this work, please cite our paper:
   address={Dublin, Ireland}
 }
 ```
-
----
-
-## 🔗 Source Code
-
-The source code for the MDFF pipeline is available at:
-
-https://github.com/xxxxxxxx/MDFF-Solar-Estimation  
-*(URL censored in the manuscript for anonymity)*
 
 ---
 
