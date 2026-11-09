@@ -1,0 +1,241 @@
+backbone,variant,regressor,metric,value
+EfficientNetB0,Dense,Linear Regression,MSE,27970.99412452188
+EfficientNetB0,Dense,Linear Regression,RMSE,167.2453112183474
+EfficientNetB0,Dense,Linear Regression,MAE,131.17627216246726
+EfficientNetB0,Dense,Linear Regression,R2,0.5191237094861996
+EfficientNetB0,Dense,Decision Tree Regression,MSE,20768.04013822459
+EfficientNetB0,Dense,Decision Tree Regression,RMSE,144.1112075385693
+EfficientNetB0,Dense,Decision Tree Regression,MAE,97.66611010322288
+EfficientNetB0,Dense,Decision Tree Regression,R2,0.6429566264805804
+EfficientNetB0,Dense,Random Forest Regression,MSE,9663.553467747115
+EfficientNetB0,Dense,Random Forest Regression,RMSE,98.30337465085883
+EfficientNetB0,Dense,Random Forest Regression,MAE,68.72152821912204
+EfficientNetB0,Dense,Random Forest Regression,R2,0.8338645482507877
+EfficientNetB0,Dense,Support Vector Regression,MSE,34003.176505152325
+EfficientNetB0,Dense,Support Vector Regression,RMSE,184.39950245364633
+EfficientNetB0,Dense,Support Vector Regression,MAE,125.72243301737164
+EfficientNetB0,Dense,Support Vector Regression,R2,0.4154186543856647
+EfficientNetB0,Dense,Polynomial Regression,MSE,5759653941.951763
+EfficientNetB0,Dense,Polynomial Regression,RMSE,75892.38395222384
+EfficientNetB0,Dense,Polynomial Regression,MAE,454.0039992781171
+EfficientNetB0,Dense,Polynomial Regression,R2,-99018.75632038055
+EfficientNetB0,Conv,Linear Regression,MSE,25037.670189779237
+EfficientNetB0,Conv,Linear Regression,RMSE,158.23296176770262
+EfficientNetB0,Conv,Linear Regression,MAE,123.75024197030376
+EfficientNetB0,Conv,Linear Regression,R2,0.5695533054574689
+EfficientNetB0,Conv,Decision Tree Regression,MSE,19311.090329552786
+EfficientNetB0,Conv,Decision Tree Regression,RMSE,138.96434913154087
+EfficientNetB0,Conv,Decision Tree Regression,MAE,93.14687706895378
+EfficientNetB0,Conv,Decision Tree Regression,R2,0.6680044533951293
+EfficientNetB0,Conv,Random Forest Regression,MSE,8723.964658866218
+EfficientNetB0,Conv,Random Forest Regression,RMSE,93.40216624289941
+EfficientNetB0,Conv,Random Forest Regression,MAE,64.29016187334868
+EfficientNetB0,Conv,Random Forest Regression,R2,0.8500179241019097
+EfficientNetB0,Conv,Support Vector Regression,MSE,27918.427160560805
+EfficientNetB0,Conv,Support Vector Regression,RMSE,167.0880820422594
+EfficientNetB0,Conv,Support Vector Regression,MAE,118.18129790342371
+EfficientNetB0,Conv,Support Vector Regression,R2,0.5200274387752137
+EfficientNetB0,Conv,Polynomial Regression,MSE,6893071759.695571
+EfficientNetB0,Conv,Polynomial Regression,RMSE,83024.52504950312
+EfficientNetB0,Conv,Polynomial Regression,MAE,339.66729220114934
+EfficientNetB0,Conv,Polynomial Regression,R2,-118504.43328175331
+EfficientNetB0,MDFF,Linear Regression,MSE,14345.3242395618
+EfficientNetB0,MDFF,Linear Regression,RMSE,119.7719676700763
+EfficientNetB0,MDFF,Linear Regression,MAE,91.5251585005692
+EfficientNetB0,MDFF,Linear Regression,R2,0.7533757192959225
+EfficientNetB0,MDFF,Decision Tree Regression,MSE,13730.884430341785
+EfficientNetB0,MDFF,Decision Tree Regression,RMSE,117.17885658403475
+EfficientNetB0,MDFF,Decision Tree Regression,MAE,75.75356497369127
+EfficientNetB0,MDFF,Decision Tree Regression,R2,0.7639391456398827
+EfficientNetB0,MDFF,Random Forest Regression,MSE,6428.06652052318
+EfficientNetB0,MDFF,Random Forest Regression,RMSE,80.17522385701945
+EfficientNetB0,MDFF,Random Forest Regression,MAE,53.04805484419126
+EfficientNetB0,MDFF,Random Forest Regression,R2,0.8894889194926683
+EfficientNetB0,MDFF,Support Vector Regression,MSE,15960.117841367457
+EfficientNetB0,MDFF,Support Vector Regression,RMSE,126.333359970229
+EfficientNetB0,MDFF,Support Vector Regression,MAE,92.81826026092229
+EfficientNetB0,MDFF,Support Vector Regression,R2,0.725614247761346
+EfficientNetB0,MDFF,Polynomial Regression,MSE,11312563.99077846
+EfficientNetB0,MDFF,Polynomial Regression,RMSE,3363.4155245491834
+EfficientNetB0,MDFF,Polynomial Regression,MAE,68.58803980522497
+EfficientNetB0,MDFF,Polynomial Regression,R2,-193.48517932068776
+MobileNetV2,Dense,Linear Regression,MSE,15626.942889561655
+MobileNetV2,Dense,Linear Regression,RMSE,125.00777131667317
+MobileNetV2,Dense,Linear Regression,MAE,94.44861591185932
+MobileNetV2,Dense,Linear Regression,R2,0.731342179139231
+MobileNetV2,Dense,Decision Tree Regression,MSE,19667.42207284553
+MobileNetV2,Dense,Decision Tree Regression,RMSE,140.24058639654046
+MobileNetV2,Dense,Decision Tree Regression,MAE,93.87747680046338
+MobileNetV2,Dense,Decision Tree Regression,R2,0.6618784113193952
+MobileNetV2,Dense,Random Forest Regression,MSE,8827.884519535784
+MobileNetV2,Dense,Random Forest Regression,RMSE,93.95682263431317
+MobileNetV2,Dense,Random Forest Regression,MAE,63.78357794426126
+MobileNetV2,Dense,Random Forest Regression,R2,0.8482313377229264
+MobileNetV2,Dense,Support Vector Regression,MSE,15684.42780253017
+MobileNetV2,Dense,Support Vector Regression,RMSE,125.23748561245618
+MobileNetV2,Dense,Support Vector Regression,MAE,92.51557686160133
+MobileNetV2,Dense,Support Vector Regression,R2,0.7303539006538206
+MobileNetV2,Dense,Polynomial Regression,MSE,9074.334655952613
+MobileNetV2,Dense,Polynomial Regression,RMSE,95.25930220168848
+MobileNetV2,Dense,Polynomial Regression,MAE,66.5619674068385
+MobileNetV2,Dense,Polynomial Regression,R2,0.843994376145188
+MobileNetV2,Conv,Linear Regression,MSE,13212.766903658974
+MobileNetV2,Conv,Linear Regression,RMSE,114.94680031936068
+MobileNetV2,Conv,Linear Regression,MAE,86.69715976561238
+MobileNetV2,Conv,Linear Regression,R2,0.7728466028854937
+MobileNetV2,Conv,Decision Tree Regression,MSE,18272.488067216036
+MobileNetV2,Conv,Decision Tree Regression,RMSE,135.17576730766515
+MobileNetV2,Conv,Decision Tree Regression,MAE,90.16182128791085
+MobileNetV2,Conv,Decision Tree Regression,R2,0.6858600648549267
+MobileNetV2,Conv,Random Forest Regression,MSE,8369.024806054184
+MobileNetV2,Conv,Random Forest Regression,RMSE,91.48237429174094
+MobileNetV2,Conv,Random Forest Regression,MAE,61.81076872964063
+MobileNetV2,Conv,Random Forest Regression,R2,0.8561200368482753
+MobileNetV2,Conv,Support Vector Regression,MSE,13304.446798668694
+MobileNetV2,Conv,Support Vector Regression,RMSE,115.34490365277824
+MobileNetV2,Conv,Support Vector Regression,MAE,85.71115152230796
+MobileNetV2,Conv,Support Vector Regression,R2,0.7712704455408279
+MobileNetV2,Conv,Polynomial Regression,MSE,8143.2277612544685
+MobileNetV2,Conv,Polynomial Regression,RMSE,90.23983466991984
+MobileNetV2,Conv,Polynomial Regression,MAE,62.7886089273789
+MobileNetV2,Conv,Polynomial Regression,R2,0.8600019312431934
+MobileNetV2,MDFF,Linear Regression,MSE,9273.415955863204
+MobileNetV2,MDFF,Linear Regression,RMSE,96.29857712273429
+MobileNetV2,MDFF,Linear Regression,MAE,70.88759134195274
+MobileNetV2,MDFF,Linear Regression,R2,0.840571777842622
+MobileNetV2,MDFF,Decision Tree Regression,MSE,13883.400395589038
+MobileNetV2,MDFF,Decision Tree Regression,RMSE,117.8278421918565
+MobileNetV2,MDFF,Decision Tree Regression,MAE,75.24273763251175
+MobileNetV2,MDFF,Decision Tree Regression,R2,0.761317096838695
+MobileNetV2,MDFF,Random Forest Regression,MSE,6583.0585756601395
+MobileNetV2,MDFF,Random Forest Regression,RMSE,81.13604979083058
+MobileNetV2,MDFF,Random Forest Regression,MAE,52.10996107689797
+MobileNetV2,MDFF,Random Forest Regression,R2,0.8868243018462032
+MobileNetV2,MDFF,Support Vector Regression,MSE,9345.240149515708
+MobileNetV2,MDFF,Support Vector Regression,RMSE,96.67078229494012
+MobileNetV2,MDFF,Support Vector Regression,MAE,69.77415398439264
+MobileNetV2,MDFF,Support Vector Regression,R2,0.8393369789770901
+MobileNetV2,MDFF,Polynomial Regression,MSE,6418.651679660992
+MobileNetV2,MDFF,Polynomial Regression,RMSE,80.1164881885183
+MobileNetV2,MDFF,Polynomial Regression,MAE,53.6692322535579
+MobileNetV2,MDFF,Polynomial Regression,R2,0.8896507790865544
+MobileNetV3s,Dense,Linear Regression,MSE,17354.650247735928
+MobileNetV3s,Dense,Linear Regression,RMSE,131.73704963956013
+MobileNetV3s,Dense,Linear Regression,MAE,100.32109026649466
+MobileNetV3s,Dense,Linear Regression,R2,0.7016394985053712
+MobileNetV3s,Dense,Decision Tree Regression,MSE,20080.054670921665
+MobileNetV3s,Dense,Decision Tree Regression,RMSE,141.70410957668682
+MobileNetV3s,Dense,Decision Tree Regression,MAE,90.9960797094309
+MobileNetV3s,Dense,Decision Tree Regression,R2,0.6547844470425244
+MobileNetV3s,Dense,Random Forest Regression,MSE,9456.32237301038
+MobileNetV3s,Dense,Random Forest Regression,RMSE,97.2436238167335
+MobileNetV3s,Dense,Random Forest Regression,MAE,63.118811712929606
+MobileNetV3s,Dense,Random Forest Regression,R2,0.8374272575228457
+MobileNetV3s,Dense,Support Vector Regression,MSE,17394.865018632325
+MobileNetV3s,Dense,Support Vector Regression,RMSE,131.88959404984277
+MobileNetV3s,Dense,Support Vector Regression,MAE,98.46894313334542
+MobileNetV3s,Dense,Support Vector Regression,R2,0.7009481276600438
+MobileNetV3s,Dense,Polynomial Regression,MSE,9006.244095983096
+MobileNetV3s,Dense,Polynomial Regression,RMSE,94.90123337440403
+MobileNetV3s,Dense,Polynomial Regression,MAE,64.15856126222295
+MobileNetV3s,Dense,Polynomial Regression,R2,0.8451649865193271
+MobileNetV3s,Conv,Linear Regression,MSE,15176.129421499674
+MobileNetV3s,Conv,Linear Regression,RMSE,123.19143404271124
+MobileNetV3s,Conv,Linear Regression,MAE,92.18307909717898
+MobileNetV3s,Conv,Linear Regression,R2,0.7390925475126331
+MobileNetV3s,Conv,Decision Tree Regression,MSE,18111.51296555691
+MobileNetV3s,Conv,Decision Tree Regression,RMSE,134.5790212683868
+MobileNetV3s,Conv,Decision Tree Regression,MAE,85.09957565372196
+MobileNetV3s,Conv,Decision Tree Regression,R2,0.6886275428146413
+MobileNetV3s,Conv,Random Forest Regression,MSE,8767.514371919857
+MobileNetV3s,Conv,Random Forest Regression,RMSE,93.63500612441833
+MobileNetV3s,Conv,Random Forest Regression,MAE,60.18896523234052
+MobileNetV3s,Conv,Random Forest Regression,R2,0.8492692190550692
+MobileNetV3s,Conv,Support Vector Regression,MSE,15398.391286136786
+MobileNetV3s,Conv,Support Vector Regression,RMSE,124.09025459775955
+MobileNetV3s,Conv,Support Vector Regression,MAE,92.56846608911769
+MobileNetV3s,Conv,Support Vector Regression,R2,0.7352714298035676
+MobileNetV3s,Conv,Polynomial Regression,MSE,8514.122551433577
+MobileNetV3s,Conv,Polynomial Regression,RMSE,92.2720030747874
+MobileNetV3s,Conv,Polynomial Regression,MAE,62.268873086658985
+MobileNetV3s,Conv,Polynomial Regression,R2,0.8536255218071103
+MobileNetV3s,MDFF,Linear Regression,MSE,9068.763950909617
+MobileNetV3s,MDFF,Linear Regression,RMSE,95.2300580221897
+MobileNetV3s,MDFF,Linear Regression,MAE,68.20793508156048
+MobileNetV3s,MDFF,Linear Regression,R2,0.8440901474990661
+MobileNetV3s,MDFF,Decision Tree Regression,MSE,13105.897366571879
+MobileNetV3s,MDFF,Decision Tree Regression,RMSE,114.48099128926111
+MobileNetV3s,MDFF,Decision Tree Regression,MAE,72.02367367575995
+MobileNetV3s,MDFF,Decision Tree Regression,R2,0.774683899991724
+MobileNetV3s,MDFF,Random Forest Regression,MSE,6304.548263659731
+MobileNetV3s,MDFF,Random Forest Regression,RMSE,79.40118553056831
+MobileNetV3s,MDFF,Random Forest Regression,MAE,49.91755947794696
+MobileNetV3s,MDFF,Random Forest Regression,R2,0.8916124407699887
+MobileNetV3s,MDFF,Support Vector Regression,MSE,9245.847930911112
+MobileNetV3s,MDFF,Support Vector Regression,RMSE,96.15533230617588
+MobileNetV3s,MDFF,Support Vector Regression,MAE,68.09905438513374
+MobileNetV3s,MDFF,Support Vector Regression,R2,0.8410457263021133
+MobileNetV3s,MDFF,Polynomial Regression,MSE,6186.7809121499695
+MobileNetV3s,MDFF,Polynomial Regression,RMSE,78.65609265753015
+MobileNetV3s,MDFF,Polynomial Regression,MAE,51.685130375088654
+MobileNetV3s,MDFF,Polynomial Regression,R2,0.8936370926963927
+TinyVit,Dense,Linear Regression,MSE,13042.911787132638
+TinyVit,Dense,Linear Regression,RMSE,114.20556810914535
+TinyVit,Dense,Linear Regression,MAE,85.52931940215404
+TinyVit,Dense,Linear Regression,R2,0.7757667457304834
+TinyVit,Dense,Decision Tree Regression,MSE,17165.224999633414
+TinyVit,Dense,Decision Tree Regression,RMSE,131.0161249603781
+TinyVit,Dense,Decision Tree Regression,MAE,85.51331794099465
+TinyVit,Dense,Decision Tree Regression,R2,0.7048960903244419
+TinyVit,Dense,Random Forest Regression,MSE,8185.059558025235
+TinyVit,Dense,Random Forest Regression,RMSE,90.47131898024497
+TinyVit,Dense,Random Forest Regression,MAE,59.53063282860309
+TinyVit,Dense,Random Forest Regression,R2,0.8592827605491844
+TinyVit,Dense,Support Vector Regression,MSE,13156.62634531465
+TinyVit,Dense,Support Vector Regression,RMSE,114.70233801154468
+TinyVit,Dense,Support Vector Regression,MAE,85.31710396393294
+TinyVit,Dense,Support Vector Regression,R2,0.7738117692762129
+TinyVit,Dense,Polynomial Regression,MSE,8172.684723367841
+TinyVit,Dense,Polynomial Regression,RMSE,90.40290218443123
+TinyVit,Dense,Polynomial Regression,MAE,62.29643132094789
+TinyVit,Dense,Polynomial Regression,R2,0.8594955082462907
+TinyVit,Conv,Linear Regression,MSE,11892.748824583943
+TinyVit,Conv,Linear Regression,RMSE,109.05388037380395
+TinyVit,Conv,Linear Regression,MAE,81.36615740468221
+TinyVit,Conv,Linear Regression,R2,0.79554030459845
+TinyVit,Conv,Decision Tree Regression,MSE,16822.149221513228
+TinyVit,Conv,Decision Tree Regression,RMSE,129.7002283017005
+TinyVit,Conv,Decision Tree Regression,MAE,84.71849079965226
+TinyVit,Conv,Decision Tree Regression,R2,0.7107942363400295
+TinyVit,Conv,Random Forest Regression,MSE,8114.053241635541
+TinyVit,Conv,Random Forest Regression,RMSE,90.07803973020029
+TinyVit,Conv,Random Forest Regression,MAE,59.601336761037146
+TinyVit,Conv,Random Forest Regression,R2,0.8605034984992378
+TinyVit,Conv,Support Vector Regression,MSE,12024.996689532061
+TinyVit,Conv,Support Vector Regression,RMSE,109.65854590287098
+TinyVit,Conv,Support Vector Regression,MAE,81.36238096176521
+TinyVit,Conv,Support Vector Regression,R2,0.7932667042236651
+TinyVit,Conv,Polynomial Regression,MSE,7764.291317046631
+TinyVit,Conv,Polynomial Regression,RMSE,88.11521614934978
+TinyVit,Conv,Polynomial Regression,MAE,60.09972709776747
+TinyVit,Conv,Polynomial Regression,R2,0.8665165924962019
+TinyVit,MDFF,Linear Regression,MSE,10701.960849060008
+TinyVit,MDFF,Linear Regression,RMSE,103.45028201537204
+TinyVit,MDFF,Linear Regression,MAE,77.28903383205422
+TinyVit,MDFF,Linear Regression,R2,0.8160122871783032
+TinyVit,MDFF,Decision Tree Regression,MSE,17058.144525056483
+TinyVit,MDFF,Decision Tree Regression,RMSE,130.60683184679309
+TinyVit,MDFF,Decision Tree Regression,MAE,86.63593574165563
+TinyVit,MDFF,Decision Tree Regression,R2,0.706737013860151
+TinyVit,MDFF,Random Forest Regression,MSE,7922.334579143924
+TinyVit,MDFF,Random Forest Regression,RMSE,89.00749731985461
+TinyVit,MDFF,Random Forest Regression,MAE,59.71873562601967
+TinyVit,MDFF,Random Forest Regression,R2,0.8637995186131747
+TinyVit,MDFF,Support Vector Regression,MSE,10721.368992742882
+TinyVit,MDFF,Support Vector Regression,RMSE,103.5440437337797
+TinyVit,MDFF,Support Vector Regression,MAE,77.04067877258446
+TinyVit,MDFF,Support Vector Regression,R2,0.8156786230940583
+TinyVit,MDFF,Polynomial Regression,MSE,7475.744948921806
+TinyVit,MDFF,Polynomial Regression,RMSE,86.46239037247238
+TinyVit,MDFF,Polynomial Regression,MAE,59.95131607163136
+TinyVit,MDFF,Polynomial Regression,R2,0.8714772709235536

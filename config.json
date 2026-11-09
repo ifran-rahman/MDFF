@@ -1,12 +1,9 @@
 {
-    "base_path": "/home/ifran/Projects_UBUNTU/MDFF-Copy/",
-    "dataset":{
-      "tiny":"/home/ifran/Projects_UBUNTU/MDFF-Copy/tiny_girasol.csv",
-      "one_month":"/home/ifran/Projects_UBUNTU/MDFF-Copy/one_month_data.csv",
-      "full_dataset":"/home/ifran/Projects_UBUNTU/MDFF-Copy/girasol.csv",
-      "mean":[0.3938, 0.3938, 0.3938],
-      "std": [0.0242, 0.0242, 0.0242]
-    }  
-  
+  "data_root": "data/Girasol",
+  "dataset": {
+    "tiny": "data/tiny_girasol.csv",
+    "full_dataset": "data/girasol.csv.gz",
+    "mean": [0.3938, 0.3938, 0.3938],
+    "std": [0.0242, 0.0242, 0.0242]
   }
-  
+}

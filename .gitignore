@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+._*
+*:Zone.Identifier
+
+# dataset images (see README) and generated outputs
+data/Girasol
+Features/
+*.log
+models/
