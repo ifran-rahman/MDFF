@@ -9,3 +9,5 @@ data/Girasol
 Features/
 *.log
 models/
+data/*.csv
+data/*.csv.gz
